@@ -1,3 +1,9 @@
+# Ignore all practice files and extra folders in the workspace
+python workspace/*.py
+python workspace/Auto_reply_bot/
+python workspace/.vscode/
+
+# Ignore root clutter
 .vscode/
 python libraries/
 op.csv
